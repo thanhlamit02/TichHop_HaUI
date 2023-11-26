@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DSSV xmlns="http://tempuri.org/DSSV.xsd">
+	<SinhVien>
+		<MaSV>20206004</MaSV>
+		<HoTen>Nguyễn Thành Lâm</HoTen>
+		<NgaySinh>2002-10-14</NgaySinh>
+		<Lop>CNTT01-K15</Lop>
+		<MonHoc TenMon="Toán">
+			<Lan1>10</Lan1>
+			<Lan2>9</Lan2>
+			<CaNam>9.5</CaNam>
+		</MonHoc>
+		<MonHoc TenMon="Lý">
+			<Lan1>10</Lan1>
+			<Lan2>9</Lan2>
+			<CaNam>9.5</CaNam>
+		</MonHoc>
+		<MonHoc TenMon="Hóa">
+			<Lan1>10</Lan1>
+			<Lan2>9</Lan2>
+			<CaNam>9.5</CaNam>
+		</MonHoc>
+		<HocLuc>Giỏi</HocLuc>
+		<HanhKiem>Giỏi</HanhKiem>
+		<GVCN>Trần Mai Linh</GVCN>
+	</SinhVien>
+</DSSV>

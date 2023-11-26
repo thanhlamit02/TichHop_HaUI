@@ -1,0 +1,15 @@
+﻿.bang{
+	background-color:yellow;
+}
+.text{
+	font-weight:bold;
+	color:red;
+	font-size:24px;
+}
+.vien{
+	border: 1px solid black;
+	height: 200px;
+}
+.tenct{
+	text-transform:uppercase;
+}

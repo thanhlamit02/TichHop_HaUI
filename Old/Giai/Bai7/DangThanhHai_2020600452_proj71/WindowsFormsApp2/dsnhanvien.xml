@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ds>
+	<nhanvien manv="1">
+		<hoten>Đặng Thanh Hải</hoten>
+		<gioitinh>Nam</gioitinh>
+		<trinhdo>Đại Học</trinhdo>
+		<diachi>Hà Nội</diachi>
+	</nhanvien>
+	<nhanvien manv="2">
+		<hoten>Nguyễn Thị B</hoten>
+		<gioitinh>Nữ</gioitinh>
+		<trinhdo>Đại Học</trinhdo>
+		<diachi>Hà Nội</diachi>
+	</nhanvien>
+</ds>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="MonHoc.xslt"?>
+<DS>
+	<MonHoc>
+		<MaMh>CSDL</MaMh>
+		<TenMh>Cơ sở dữ liệu</TenMh>
+		<SoGio>4</SoGio>
+	</MonHoc>
+	<MonHoc>
+		<MaMh>MMT</MaMh>
+		<TenMh>Mạng máy tính</TenMh>
+		<SoGio>41</SoGio>
+	</MonHoc>
+	<MonHoc>
+		<MaMh>LTJ</MaMh>
+		<TenMh>Lập trình java</TenMh>
+		<SoGio>45</SoGio>
+	</MonHoc>
+</DS>

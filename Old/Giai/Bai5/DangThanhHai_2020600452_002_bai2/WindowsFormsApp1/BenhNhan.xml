@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="BenhNhan.xslt"?>
+<BVDK>
+	<Khoa>
+		<TenKhoa>Nội</TenKhoa>
+		<Phong>302</Phong>
+		<BenhNhan MasoBN="BN01">
+			<HoTen>Nguyễn Văn A</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<NgayNhapVien>2023-07-23</NgayNhapVien>
+			<NgayDieuTri>2</NgayDieuTri>
+		</BenhNhan>
+		<BenhNhan MasoBN="BN02">
+			<HoTen>Nguyễn Văn B</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<NgayNhapVien>2023-07-23</NgayNhapVien>
+			<NgayDieuTri>2</NgayDieuTri>
+		</BenhNhan>
+	</Khoa>
+	<Khoa>
+		<TenKhoa>Nội</TenKhoa>
+		<Phong>302</Phong>
+		<BenhNhan MasoBN="BN03">
+			<HoTen>Nguyễn Văn C</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<NgayNhapVien>2023-07-23</NgayNhapVien>
+			<NgayDieuTri>2</NgayDieuTri>
+		</BenhNhan>
+		<BenhNhan MasoBN="BN04">
+			<HoTen>Nguyễn Văn D</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<NgayNhapVien>2023-07-23</NgayNhapVien>
+			<NgayDieuTri>2</NgayDieuTri>
+		</BenhNhan>
+	</Khoa>
+</BVDK>

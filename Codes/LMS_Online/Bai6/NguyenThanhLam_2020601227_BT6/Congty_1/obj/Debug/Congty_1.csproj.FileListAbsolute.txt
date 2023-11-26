@@ -1,0 +1,15 @@
+E:\KI1_Nam4\THHT\Giai\Bai6\ConsoleApp1\Congty_1\bin\Debug\Congty_1.exe.config
+E:\KI1_Nam4\THHT\Giai\Bai6\ConsoleApp1\Congty_1\bin\Debug\Congty_1.exe
+E:\KI1_Nam4\THHT\Giai\Bai6\ConsoleApp1\Congty_1\bin\Debug\Congty_1.pdb
+E:\KI1_Nam4\THHT\Giai\Bai6\ConsoleApp1\Congty_1\obj\Debug\Congty_1.csproj.AssemblyReference.cache
+E:\KI1_Nam4\THHT\Giai\Bai6\ConsoleApp1\Congty_1\obj\Debug\Congty_1.csproj.SuggestedBindingRedirects.cache
+E:\KI1_Nam4\THHT\Giai\Bai6\ConsoleApp1\Congty_1\obj\Debug\Congty_1.csproj.CoreCompileInputs.cache
+E:\KI1_Nam4\THHT\Giai\Bai6\ConsoleApp1\Congty_1\obj\Debug\Congty_1.exe
+E:\KI1_Nam4\THHT\Giai\Bai6\ConsoleApp1\Congty_1\obj\Debug\Congty_1.pdb
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai6\ConsoleApp1\Congty_1\bin\Debug\Congty_1.exe.config
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai6\ConsoleApp1\Congty_1\bin\Debug\Congty_1.exe
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai6\ConsoleApp1\Congty_1\bin\Debug\Congty_1.pdb
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai6\ConsoleApp1\Congty_1\obj\Debug\Congty_1.csproj.AssemblyReference.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai6\ConsoleApp1\Congty_1\obj\Debug\Congty_1.csproj.CoreCompileInputs.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai6\ConsoleApp1\Congty_1\obj\Debug\Congty_1.exe
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai6\ConsoleApp1\Congty_1\obj\Debug\Congty_1.pdb

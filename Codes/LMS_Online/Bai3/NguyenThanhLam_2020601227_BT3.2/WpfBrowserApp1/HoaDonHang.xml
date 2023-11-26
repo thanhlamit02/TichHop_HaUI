@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="HoaDonHang.xslt"?>
+<BenhVien>
+	<Khoa>
+		<TenKhoa>Thần kinh</TenKhoa>
+		<TruongKhoa>Đặng Thanh Hải</TruongKhoa>
+		<Phong TenPhong="101">
+			<BenhNhan MaHS="HS01">
+				<HoTen>Nguyễn Văn A</HoTen>
+				<DiaChi>Hà Nội</DiaChi>
+				<SoDT>0123456789</SoDT>
+				<SoNgay>5</SoNgay>
+				<NgayNV>2023-07-18</NgayNV>
+			</BenhNhan>
+			<BenhNhan MaHS="HS02">
+				<HoTen>Nguyễn Văn N</HoTen>
+				<DiaChi>Bắc Ninh</DiaChi>
+				<SoDT>0123456789</SoDT>
+				<SoNgay>10</SoNgay>
+				<NgayNV>2023-07-17</NgayNV>
+			</BenhNhan>
+		</Phong>
+		<Phong TenPhong="102">
+			<BenhNhan MaHS="HS03">
+				<HoTen>Nguyễn Văn B</HoTen>
+				<DiaChi>Hà Nội</DiaChi>
+				<SoDT>0123456789</SoDT>
+				<SoNgay>5</SoNgay>
+				<NgayNV>2023-07-18</NgayNV>
+			</BenhNhan>
+			<BenhNhan MaHS="HS04">
+				<HoTen>Nguyễn Văn C</HoTen>
+				<DiaChi>Bắc Ninh</DiaChi>
+				<SoDT>0123456789</SoDT>
+				<SoNgay>10</SoNgay>
+				<NgayNV>2023-07-17</NgayNV>
+			</BenhNhan>
+		</Phong>
+	</Khoa>
+</BenhVien>

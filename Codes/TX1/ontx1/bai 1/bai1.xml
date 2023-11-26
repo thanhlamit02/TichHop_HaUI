@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<congty xmlns="http://tempuri.org/bai1.xsd">
+	<donvi madv="a01">
+		<tendonvi>Phòng tổ chức</tendonvi>
+		<sdt>01234567689</sdt>
+		<nhanvien manv="tc01">
+			<hoten>Em Dương khum béo</hoten>
+			<ngaysinh>2002-10-17</ngaysinh>
+			<gioitinh>Nữ</gioitinh>
+			<hesoluong>7</hesoluong>
+		</nhanvien>
+	</donvi>
+</congty>

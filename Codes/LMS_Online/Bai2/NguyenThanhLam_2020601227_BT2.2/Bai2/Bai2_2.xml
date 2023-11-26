@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DS xmlns="http://tempuri.org/Bai2_2.xsd">
+	<HoaDon>
+		<MaHD>HD1</MaHD>
+		<NgayBan>2002-11-03</NgayBan>
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang="H1">
+				<TenHang>Ti vi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+</DS>

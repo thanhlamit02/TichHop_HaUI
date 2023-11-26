@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Danhsach.xslt"?>
+<DS>
+	<congty TenCT="Công ty dược Nam Hà">
+		<donvi>
+			<madv>A01</madv>
+			<tendv>Phòng tổ chức</tendv>
+			<dienthoai>03542545</dienthoai>
+			<nhanvien>
+				<manv>tc01</manv>
+				<hoten>Nguyễn Văn A</hoten>
+				<ngaysinh>2002-11-03</ngaysinh>
+				<gioitinh>nữ</gioitinh>
+				<ngaycong>20</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>tc02</manv>
+				<hoten>Nguyễn Văn B</hoten>
+				<ngaysinh>2002-11-03</ngaysinh>
+				<gioitinh>nam</gioitinh>
+				<ngaycong>23</ngaycong>
+			</nhanvien>
+		</donvi>
+	</congty>
+</DS>

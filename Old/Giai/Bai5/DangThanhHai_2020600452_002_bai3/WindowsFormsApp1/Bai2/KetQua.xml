@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="KetQua.xslt"?>
+<KetQua>
+	<SinhVien MaSv="sv01">
+		<MonHoc>
+			<MaMh>THVP</MaMh>
+			<DiemThi>9.5</DiemThi>
+		</MonHoc>
+		<MonHoc>
+			<MaMh>THDC</MaMh>
+			<DiemThi>8</DiemThi>
+		</MonHoc>
+	</SinhVien>
+	<SinhVien MaSv="sv02">
+		<MonHoc>
+			<MaMh>THVP</MaMh>
+			<DiemThi>10</DiemThi>
+		</MonHoc>
+		<MonHoc>
+			<MaMh>THDC</MaMh>
+			<DiemThi>5.5</DiemThi>
+		</MonHoc>
+	</SinhVien>
+	<SinhVien MaSv="sv03">
+		<MonHoc>
+			<MaMh>THVP</MaMh>
+			<DiemThi>4.5</DiemThi>
+		</MonHoc>
+		<MonHoc>
+			<MaMh>THDC</MaMh>
+			<DiemThi>4</DiemThi>
+		</MonHoc>
+	</SinhVien>
+</KetQua>

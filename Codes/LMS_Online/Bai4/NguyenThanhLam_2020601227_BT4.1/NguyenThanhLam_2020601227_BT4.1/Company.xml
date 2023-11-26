@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<company>
+	<employee id="H01" gender="male">
+		<name>Thanh-Lam</name>
+		<userid>H123457</userid>
+		<phone>012-021-3513</phone>
+		<salary>1001</salary>
+		<address>Nam Dinh</address>
+	</employee>
+	<employee id="H02" gender="male">
+		<name>Thanh-Lam</name>
+		<userid>H123457</userid>
+		<phone>012-021-3513</phone>
+		<salary>1001</salary>
+		<address>Nam Dinh</address>
+	</employee>
+</company>

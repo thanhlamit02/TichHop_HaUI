@@ -1,0 +1,5 @@
+E:\KI1_Nam4\THHT\Giai\TX1\Bai3_1\Bai3_2\obj\Debug\Bai3_2.csproj.AssemblyReference.cache
+E:\KI1_Nam4\THHT\Giai\TX1\Bai3_1\Bai3_2\obj\Debug\Bai3_2.csproj.SuggestedBindingRedirects.cache
+E:\KI1_Nam4\THHT\Giai\TX1\Bai3_1\Bai3_2\obj\Debug\Bai3_2.Properties.Resources.resources
+E:\KI1_Nam4\THHT\Giai\TX1\Bai3_1\Bai3_2\obj\Debug\Bai3_2.csproj.GenerateResource.cache
+E:\KI1_Nam4\THHT\Giai\TX1\Bai3_1\Bai3_2\obj\Debug\Bai3_2.csproj.CoreCompileInputs.cache

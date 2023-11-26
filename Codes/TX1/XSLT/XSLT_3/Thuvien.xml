@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Thuvien.xslt"?>
+
+<ThuVien>
+	<LoaiSach MaLoai="KH">
+		<TenLoai>Kiếm hiệp</TenLoai>
+		<Sach MaSach="MS01">
+			<Thongtin>
+				<TenSach>Lộc Đỉnh Kí</TenSach>
+				<TacGia>Thi Nại Am</TacGia>
+			</Thongtin>
+			<SoTrang>150</SoTrang>
+		</Sach>
+
+		<Sach MaSach="MS02">
+			<Thongtin>
+				<TenSach>Lộc Đỉnh Kí</TenSach>
+				<TacGia>Thi Nại Am</TacGia>
+			</Thongtin>
+			<SoTrang>250</SoTrang>
+		</Sach>
+			
+	</LoaiSach>
+
+	<LoaiSach MaLoai="TH">
+		<TenLoai>Tin học</TenLoai>
+		<Sach MaSach="MS03">
+			<Thongtin>
+				<TenSach>Lộc Đỉnh Kí</TenSach>
+				<TacGia>Thi Nại Am</TacGia>
+			</Thongtin>
+			<SoTrang>220</SoTrang>
+		</Sach>
+
+		<Sach MaSach="MS04">
+			<Thongtin>
+				<TenSach>Lộc Đỉnh Kí</TenSach>
+				<TacGia>Thi Nại Am</TacGia>
+			</Thongtin>
+			<SoTrang>200</SoTrang>
+		</Sach>
+
+	</LoaiSach>
+</ThuVien>

@@ -1,0 +1,23 @@
+<ds>
+  <nhanvien manv="nv01">
+    <hoten>
+      <ho>Đặng Thanh</ho>
+      <ten>Hải</ten>
+    </hoten>
+    <diachi>Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="nv02">
+    <hoten>
+      <ho>Nguyễn Văn</ho>
+      <ten>A</ten>
+    </hoten>
+    <diachi>Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="nv03">
+    <hoten>
+      <ho>Nguyễn Thị</ho>
+      <ten>B</ten>
+    </hoten>
+    <diachi>Bắc Ninh</diachi>
+  </nhanvien>
+</ds>

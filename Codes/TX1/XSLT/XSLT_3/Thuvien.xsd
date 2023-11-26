@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Thuvien"
+    targetNamespace="http://tempuri.org/Thuvien.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Thuvien.xsd"
+    xmlns:mstns="http://tempuri.org/Thuvien.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:simpleType name="tenloaiType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Tâm lý"/>
+			<xs:enumeration value="Kiếm hiệp"/>
+			<xs:enumeration value="Tin học"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="trangType">
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="0"></xs:minInclusive>
+			<xs:maxExclusive value="1000"></xs:maxExclusive>
+		</xs:restriction>	
+	</xs:simpleType>
+
+	<xs:complexType name="thongtinType">
+		<xs:sequence>
+			<xs:element name="TenSach" type="xs:string"></xs:element>
+			<xs:element name="TacGia" type="xs:string" maxOccurs="3"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="sachType">
+		<xs:sequence>
+			<xs:element name="Thongtin" type="thongtinType"></xs:element>
+			<xs:element name="SoTrang" type="trangType"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="MaSach" type="xs:ID"></xs:attribute>
+	</xs:complexType>
+
+	<xs:complexType name="loaisachType">
+		<xs:sequence>
+			<xs:element name="TenLoai" type="tenloaiType"></xs:element>
+			<xs:element name="Sach" type="sachType" maxOccurs="unbounded"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="MaLoai" type="xs:ID"></xs:attribute>
+	</xs:complexType>
+
+	<xs:complexType name="thuvienType">
+		<xs:sequence>
+			<xs:element name="LoaiSach" type="loaisachType" maxOccurs="3"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name="ThuVien" type="thuvienType"></xs:element>
+</xs:schema>

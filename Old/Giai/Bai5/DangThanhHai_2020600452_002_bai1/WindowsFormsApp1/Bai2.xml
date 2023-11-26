@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Bai2.xslt"?>
+<Lop>
+	<SinhVien>
+		<MaSv>sv01</MaSv>
+		<TenSv>Đặng Thanh Hải</TenSv>
+		<GioiTinh>Nam</GioiTinh>
+		<NgaySinh>2002-11-03</NgaySinh>
+		<MaLop>CNTT01</MaLop>
+	</SinhVien>
+	<SinhVien>
+		<MaSv>sv02</MaSv>
+		<TenSv>Đặng Thanh A</TenSv>
+		<GioiTinh>Nam</GioiTinh>
+		<NgaySinh>2002-11-03</NgaySinh>
+		<MaLop>CNTT01</MaLop>
+	</SinhVien>
+	<SinhVien>
+		<MaSv>sv03</MaSv>
+		<TenSv>Đặng Thanh B</TenSv>
+		<GioiTinh>Nam</GioiTinh>
+		<NgaySinh>2002-11-03</NgaySinh>
+		<MaLop>CNTT01</MaLop>
+	</SinhVien>
+	<SinhVien>
+		<MaSv>sv04</MaSv>
+		<TenSv>Đặng Thanh C</TenSv>
+		<GioiTinh>Nam</GioiTinh>
+		<NgaySinh>2002-11-03</NgaySinh>
+		<MaLop>CNTT01</MaLop>
+	</SinhVien>
+</Lop>

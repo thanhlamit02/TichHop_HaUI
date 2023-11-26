@@ -1,0 +1,11 @@
+﻿.bang{
+	background-color:yellow;
+}
+.bang td{
+	color:red;
+	text-align:center;
+}
+.bang .not{
+	color: red;
+	text-align:left;
+}

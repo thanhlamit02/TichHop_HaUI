@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Congty"
+    targetNamespace="http://tempuri.org/Congty.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Congty.xsd"
+    xmlns:mstns="http://tempuri.org/Congty.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+	<xs:simpleType name="maType">
+		<xs:restriction base="xs:ID">
+			<xs:maxLength value="4"></xs:maxLength>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="gtType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Nam"></xs:enumeration>
+			<xs:enumeration value="Nữ"></xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="hslType">
+		<xs:restriction base="xs:decimal">
+			<xs:minInclusive value="2.34"></xs:minInclusive>
+			<xs:maxInclusive value="8.8"></xs:maxInclusive>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="sdtType">
+		<xs:restriction base="xs:integer">
+			<xs:pattern value="\d{10}"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:complexType name="nvType">
+		<xs:sequence>
+			<xs:element name="manv" type="maType"></xs:element>
+			<xs:element name="hoten" type="xs:string"></xs:element>
+			<xs:element name="ngaysinh" type="xs:date"></xs:element>
+			<xs:element name="gioitinh" type="gtType"></xs:element>
+			<xs:element name="hsluong" type="hslType"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="dvType">
+		<xs:sequence>
+			<xs:element name="tendv" type="xs:string"></xs:element>
+			<xs:element name="dienthoai" type="sdtType"></xs:element>
+			<xs:element name="nhanvien" type="mstns:nvType" maxOccurs="unbounded"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="madv" type="maType"></xs:attribute>
+	</xs:complexType>
+
+	<xs:complexType name="ctType">
+		<xs:sequence>
+			<xs:element name="donvi" type="mstns:dvType" maxOccurs="10"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name="congty" type="mstns:ctType"></xs:element>
+</xs:schema>

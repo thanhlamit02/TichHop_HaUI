@@ -1,0 +1,11 @@
+<thuvien>
+  <cuonsach masach="s01" theloai="Giáo dục">
+    <tensach>Toán 4</tensach>
+    <sotrang>100</sotrang>
+    <tacgia>
+      <hoten>Đỗ Tiến Đạt</hoten>
+      <dienthoai>03481568</dienthoai>
+    </tacgia>
+    <giatien>42000</giatien>
+  </cuonsach>
+</thuvien>

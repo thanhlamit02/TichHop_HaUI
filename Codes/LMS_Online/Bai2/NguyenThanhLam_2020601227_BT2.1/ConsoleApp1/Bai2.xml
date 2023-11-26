@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DATN>
+	<SO so="121">
+		<HoTen>NGuyễn Văn Bắc</HoTen>
+		<Lop>HTTT2-K10</Lop>
+		<Khoa>10</Khoa>
+		<TrungTam>CNTT</TrungTam>
+		<GiaoVien>Trần Thanh Hùng</GiaoVien>
+		<BanVe ten="A">
+			<KhoGiay>A3</KhoGiay>
+			<SoLuong>5</SoLuong>
+		</BanVe>
+		<BanVe ten="B">
+			<KhoGiay>A4</KhoGiay>
+			<SoLuong>5</SoLuong>
+		</BanVe>
+		...
+		<ThuyetMinh>abc</ThuyetMinh>
+		<NgayGiao>2-9-2017</NgayGiao>
+		<NgayHT>3-9-2017</NgayHT>
+	</SO>
+</DATN>

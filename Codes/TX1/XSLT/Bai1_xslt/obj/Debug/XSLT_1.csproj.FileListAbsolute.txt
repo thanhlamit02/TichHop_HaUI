@@ -1,0 +1,9 @@
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX1\XSLT\Bai1_xslt\bin\Debug\Bai1_xslt.exe.config
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX1\XSLT\Bai1_xslt\bin\Debug\Bai1_xslt.exe
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX1\XSLT\Bai1_xslt\bin\Debug\Bai1_xslt.pdb
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX1\XSLT\Bai1_xslt\obj\Debug\XSLT_1.csproj.AssemblyReference.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX1\XSLT\Bai1_xslt\obj\Debug\Bai1_xslt.Properties.Resources.resources
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX1\XSLT\Bai1_xslt\obj\Debug\XSLT_1.csproj.GenerateResource.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX1\XSLT\Bai1_xslt\obj\Debug\XSLT_1.csproj.CoreCompileInputs.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX1\XSLT\Bai1_xslt\obj\Debug\Bai1_xslt.exe
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX1\XSLT\Bai1_xslt\obj\Debug\Bai1_xslt.pdb

@@ -1,0 +1,9 @@
+﻿<Application x:Class="NguyenThanhLam_2020601227_BT4._3.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:NguyenThanhLam_2020601227_BT4._3"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

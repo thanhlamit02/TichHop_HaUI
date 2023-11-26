@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BVDK"
+    targetNamespace="http://tempuri.org/BVDK.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/BVDK.xsd"
+    xmlns:mstns="http://tempuri.org/BVDK.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:simpleType name="songayType">
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="0"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:complexType name="thoigianType">
+		<xs:sequence>
+			<xs:element name="NgayNhapVien" type="xs:date"/>
+			<xs:element name="NgayDieuTri" type="songayType"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:simpleType name="gtType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Nam"/>
+			<xs:enumeration value="Nữ"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:simpleType name="sdt">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="\d{10}"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:complexType name="benhnhanType">
+		<xs:sequence>
+			<xs:element name="GioiTinh" type="gtType"/>
+			<xs:element name="ThoiGian" type="thoigianType"/>
+			<xs:element name="DiaChi" type="xs:string"/>
+			<xs:element name="SDT" type="sdt"/>
+		</xs:sequence>
+		<xs:attribute name="MasoBN" type="xs:ID"/>
+		<xs:attribute name="HoTen" type="xs:string"/>
+	</xs:complexType>
+
+	<xs:simpleType name="tenkhoaType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Nội"/>
+			<xs:enumeration value="Ngoại"/>
+			<xs:enumeration value="Cấp cứu"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:complexType name="khoaType">
+		<xs:sequence>
+			<xs:element name="Phong" type="xs:string"/>
+			<xs:element name="BenhNhan" type="benhnhanType" maxOccurs="100"/>
+		</xs:sequence>
+		<xs:attribute name="MaKhoa" type="xs:ID"/>
+		<xs:attribute name="TenKhoa" type="tenkhoaType"/>
+	</xs:complexType>
+
+	<xs:complexType name="bvdkType">
+		<xs:sequence>
+			<xs:element name="Khoa" type="khoaType" maxOccurs="3"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name="BVDK" type="bvdkType"/>
+</xs:schema>

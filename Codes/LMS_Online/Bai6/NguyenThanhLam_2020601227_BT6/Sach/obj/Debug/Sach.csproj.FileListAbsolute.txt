@@ -1,0 +1,15 @@
+E:\KI1_Nam4\THHT\Giai\Bai6\ConsoleApp1\Sach\bin\Debug\Sach.exe.config
+E:\KI1_Nam4\THHT\Giai\Bai6\ConsoleApp1\Sach\bin\Debug\Sach.exe
+E:\KI1_Nam4\THHT\Giai\Bai6\ConsoleApp1\Sach\bin\Debug\Sach.pdb
+E:\KI1_Nam4\THHT\Giai\Bai6\ConsoleApp1\Sach\obj\Debug\Sach.csproj.AssemblyReference.cache
+E:\KI1_Nam4\THHT\Giai\Bai6\ConsoleApp1\Sach\obj\Debug\Sach.csproj.SuggestedBindingRedirects.cache
+E:\KI1_Nam4\THHT\Giai\Bai6\ConsoleApp1\Sach\obj\Debug\Sach.csproj.CoreCompileInputs.cache
+E:\KI1_Nam4\THHT\Giai\Bai6\ConsoleApp1\Sach\obj\Debug\Sach.exe
+E:\KI1_Nam4\THHT\Giai\Bai6\ConsoleApp1\Sach\obj\Debug\Sach.pdb
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai6\ConsoleApp1\Sach\bin\Debug\Sach.exe.config
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai6\ConsoleApp1\Sach\bin\Debug\Sach.exe
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai6\ConsoleApp1\Sach\bin\Debug\Sach.pdb
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai6\ConsoleApp1\Sach\obj\Debug\Sach.csproj.AssemblyReference.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai6\ConsoleApp1\Sach\obj\Debug\Sach.csproj.CoreCompileInputs.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai6\ConsoleApp1\Sach\obj\Debug\Sach.exe
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai6\ConsoleApp1\Sach\obj\Debug\Sach.pdb

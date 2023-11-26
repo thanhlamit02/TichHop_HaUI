@@ -1,0 +1,14 @@
+<ds>
+  <nhanvien manv="nv01">
+    <hoten>Đặng Thanh Hải</hoten>
+    <gioitinh>Nam</gioitinh>
+    <trinhdo>Đại học</trinhdo>
+    <diachi>Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="nv02">
+    <hoten>Nguyễn Văn A</hoten>
+    <gioitinh>Nam</gioitinh>
+    <trinhdo>Cao đẳng</trinhdo>
+    <diachi>Hà Nội</diachi>
+  </nhanvien>
+</ds>

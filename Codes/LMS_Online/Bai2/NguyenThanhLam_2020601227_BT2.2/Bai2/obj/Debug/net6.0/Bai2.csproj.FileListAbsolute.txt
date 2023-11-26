@@ -1,0 +1,4 @@
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai2\DangThanhHai_2020600452_002\Bai2\obj\Debug\net6.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai2\DangThanhHai_2020600452_002\Bai2\obj\Debug\net6.0\Bai2.AssemblyInfoInputs.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai2\DangThanhHai_2020600452_002\Bai2\obj\Debug\net6.0\Bai2.AssemblyInfo.cs
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai2\DangThanhHai_2020600452_002\Bai2\obj\Debug\net6.0\Bai2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XmlSchema.xsd to edit this template
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+           
+    <xs:simpleType name="sidType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[S]\d{3}"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="nameType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[a-zA-Z ]+"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="dobType">
+        <xs:restriction base="xs:date">
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="markType">
+        <xs:restriction base="xs:int">
+            <xs:minInclusive value="1"/>
+            <xs:maxInclusive value="10"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:complexType name="stType">
+        <xs:sequence>
+            <xs:element name="sid" type="sidType"/>
+            <xs:element name="name" type="nameType"/>
+            <xs:element name="dob" type="dobType"/>
+            <xs:element name="mark" type="markType"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="clType">
+        <xs:sequence>
+            <xs:element name="student" type="stType"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:element name="class" type="clType"/>
+
+</xs:schema>

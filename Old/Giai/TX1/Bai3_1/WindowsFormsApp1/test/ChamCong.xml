@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="ChamCong.xslt"?>
+<ChamCong BoPhan="Sản xuất">
+	<NgayLamViec Ngay="2023-07-13">
+		<NhanVien MaNV="S0001">
+			<CaLamViec>C1</CaLamViec>
+			<GioVao>05:00</GioVao>
+			<GioRa>15:15</GioRa>
+		</NhanVien>
+		<NhanVien MaNV="S0002">
+			<CaLamViec>C3</CaLamViec>
+			<GioVao>05:00</GioVao>
+			<GioRa>15:15</GioRa>
+		</NhanVien>
+		<NhanVien MaNV="S0003">
+			<CaLamViec>C3</CaLamViec>
+			<GioVao>07:00</GioVao>
+			<GioRa>18:15</GioRa>
+		</NhanVien>
+	</NgayLamViec>
+	<NgayLamViec Ngay="2023-07-14">
+		<NhanVien MaNV="S0004">
+			<CaLamViec>C3</CaLamViec>
+			<GioVao>05:00</GioVao>
+			<GioRa>15:15</GioRa>
+		</NhanVien>
+		<NhanVien MaNV="S0005">
+			<CaLamViec>C2</CaLamViec>
+			<GioVao>05:00</GioVao>
+			<GioRa>15:15</GioRa>
+		</NhanVien>
+		<NhanVien MaNV="S0006">
+			<CaLamViec>C3</CaLamViec>
+			<GioVao>07:00</GioVao>
+			<GioRa>18:15</GioRa>
+		</NhanVien>
+	</NgayLamViec>
+</ChamCong>

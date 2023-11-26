@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<congty xmlns="http://tempuri.org/BaiTap1.xsd">
+	<donvi madv="C03">
+		<tendv>Kieu Duc Anh</tendv>
+		<dienthoai>0984818631</dienthoai>
+		<nhanvien manv="tc01">
+			<hoten>Le Thu Ha</hoten>
+			<ngaysinh>1988-12-23</ngaysinh>
+			<gioitinh>nữ</gioitinh>
+			<hsluong>8.8</hsluong>
+		</nhanvien>
+	</donvi>
+</congty>

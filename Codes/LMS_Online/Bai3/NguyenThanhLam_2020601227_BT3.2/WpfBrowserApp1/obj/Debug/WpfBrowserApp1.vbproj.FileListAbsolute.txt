@@ -1,0 +1,4 @@
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai3\NguyenThanhLam_2020601227_BT3.2\WpfBrowserApp1\obj\Debug\WpfBrowserApp1.vbproj.AssemblyReference.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai3\NguyenThanhLam_2020601227_BT3.2\WpfBrowserApp1\obj\Debug\WpfBrowserApp1.g.resources
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai3\NguyenThanhLam_2020601227_BT3.2\WpfBrowserApp1\obj\Debug\WpfBrowserApp1.Resources.resources
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\THHT\Giai\Bai3\NguyenThanhLam_2020601227_BT3.2\WpfBrowserApp1\obj\Debug\WpfBrowserApp1.vbproj.GenerateResource.cache

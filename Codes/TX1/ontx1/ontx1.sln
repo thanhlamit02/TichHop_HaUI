@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai 1", "bai 1\bai 1.csproj", "{754C1D52-3756-47D7-8406-8F8F82B3B79D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai2", "bai2\bai2.csproj", "{29038746-D7D2-48D8-8FCE-3783D787DEDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xslt Bai 1", "xslt Bai 1\xslt Bai 1.csproj", "{4C8CACC4-E1CB-41E3-90F4-987B14B867CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{754C1D52-3756-47D7-8406-8F8F82B3B79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754C1D52-3756-47D7-8406-8F8F82B3B79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754C1D52-3756-47D7-8406-8F8F82B3B79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754C1D52-3756-47D7-8406-8F8F82B3B79D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29038746-D7D2-48D8-8FCE-3783D787DEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29038746-D7D2-48D8-8FCE-3783D787DEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29038746-D7D2-48D8-8FCE-3783D787DEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29038746-D7D2-48D8-8FCE-3783D787DEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8CACC4-E1CB-41E3-90F4-987B14B867CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8CACC4-E1CB-41E3-90F4-987B14B867CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8CACC4-E1CB-41E3-90F4-987B14B867CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8CACC4-E1CB-41E3-90F4-987B14B867CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47E8CDC1-8149-4D80-ADFC-66CAF1009204}
+	EndGlobalSection
+EndGlobal

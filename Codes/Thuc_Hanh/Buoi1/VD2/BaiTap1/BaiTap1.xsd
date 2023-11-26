@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BaiTap1"
+    targetNamespace="http://tempuri.org/BaiTap1.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/BaiTap1.xsd"
+    xmlns:mstns="http://tempuri.org/BaiTap1.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:element name="congty">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="donvi">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="tendv" type="xs:string"/>
+							<xs:element name="dienthoai"></xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

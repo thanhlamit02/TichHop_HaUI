@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<kqht>
+	<namhoc nam ="2009">
+		<SinhVien>
+			<HoTen>Nguyễn Việt Đức</HoTen>
+			<NgaySinh>5/3/1997</NgaySinh>
+			<Lop>KTPM5-K9</Lop>
+			<MonHoc TenMon ="Toán">
+				<Lan1>5</Lan1>
+				<Lan2>6</Lan2>
+				<CaNam>8</CaNam>
+			</MonHoc>
+			<MonHoc TenMon ="Văn">
+				<Lan1>7</Lan1>
+				<Lan2>8</Lan2>
+				<CaNam>4</CaNam>
+			</MonHoc>
+			...
+			<HocLuc>Trung bình</HocLuc>
+			<HanhKiem>Khá</HanhKiem>
+		</SinhVien>
+		...
+	</namhoc>
+	...
+</kqht>

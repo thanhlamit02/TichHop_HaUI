@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="nhanvien.xslt"?>
+<congty>
+	<donvi madv="a01">
+		<tendv>Phòng tổ chức</tendv>
+		<dienthoai>035156477</dienthoai>
+		<nhanvien>
+			<manv>tc01</manv>
+			<hoten>Lê Thu Hà</hoten>
+			<ngaysinh>2002-11-03</ngaysinh>
+			<gioitinh>Nữ</gioitinh>
+			<hsluong>2.34</hsluong>
+		</nhanvien>
+		<nhanvien>
+			<manv>tc02</manv>
+			<hoten>Đặng Thanh Hải</hoten>
+			<ngaysinh>2002-11-03</ngaysinh>
+			<gioitinh>Nam</gioitinh>
+			<hsluong>3.5</hsluong>
+		</nhanvien>
+		<nhanvien>
+			<manv>tc03</manv>
+			<hoten>Nguyễn Văn A</hoten>
+			<ngaysinh>2002-11-03</ngaysinh>
+			<gioitinh>Nam</gioitinh>
+			<hsluong>3.2</hsluong>
+		</nhanvien>
+	</donvi>
+</congty>

@@ -1,0 +1,12 @@
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\B1_TX2\bin\Debug\B1_TX2.exe.config
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\B1_TX2\bin\Debug\B1_TX2.exe
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\B1_TX2\bin\Debug\B1_TX2.pdb
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\B1_TX2\bin\Debug\Json.Net.dll
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\B1_TX2\obj\Debug\B1_TX2.csproj.AssemblyReference.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\B1_TX2\obj\Debug\B1_TX2.Form1.resources
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\B1_TX2\obj\Debug\B1_TX2.Properties.Resources.resources
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\B1_TX2\obj\Debug\B1_TX2.csproj.GenerateResource.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\B1_TX2\obj\Debug\B1_TX2.csproj.CoreCompileInputs.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\B1_TX2\obj\Debug\B1_TX2.csproj.CopyComplete
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\B1_TX2\obj\Debug\B1_TX2.exe
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\B1_TX2\obj\Debug\B1_TX2.pdb

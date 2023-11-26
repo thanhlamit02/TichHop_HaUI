@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<QLSV xmlns="http://tempuri.org/Bai1.xsd">
+	<SinhVien MaSV="2020601227">
+		<HoTen>Nguyễn Thành Lâm</HoTen>
+		<NgaySinh>2002-14-10</NgaySinh>
+		<GioiTinh>Nam</GioiTinh>
+		<Que>Nam Định</Que>
+		<TrinhDo>Đại học</TrinhDo>
+		<HSDiem>3.20</HSDiem>
+	</SinhVien>
+
+	<SinhVien MaSV="2020601227">
+		<HoTen>Nguyễn Thành Lâm</HoTen>
+		<NgaySinh>2002-14-10</NgaySinh>
+		<GioiTinh>Nam</GioiTinh>
+		<Que>Nam Định</Que>
+		<TrinhDo>Đại học</TrinhDo>
+		<HSDiem>3.20</HSDiem>
+	</SinhVien>
+</QLSV>

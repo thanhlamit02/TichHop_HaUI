@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="nhanvien.xslt"?>
+<congty>
+	<donvi madv="a01">
+		<tendv>Phòng tổ chức</tendv>
+		<dienthoai>035454564</dienthoai>
+		<nhanvien>
+			<manv>tc01</manv>
+			<hoten>Nguyễn Văn A</hoten>
+			<ngaysinh>2002-11-03</ngaysinh>
+			<gioitinh>nữ</gioitinh>
+			<hsluong>2.34</hsluong>
+		</nhanvien>
+		<nhanvien>
+			<manv>tc02</manv>
+			<hoten>Nguyễn Văn B</hoten>
+			<ngaysinh>2002-11-03</ngaysinh>
+			<gioitinh>nam</gioitinh>
+			<hsluong>3.5</hsluong>
+		</nhanvien>
+		<nhanvien>
+			<manv>tc03</manv>
+			<hoten>Nguyễn Văn C</hoten>
+			<ngaysinh>2002-11-03</ngaysinh>
+			<gioitinh>nam</gioitinh>
+			<hsluong>3.9</hsluong>
+		</nhanvien>
+	</donvi>
+</congty>

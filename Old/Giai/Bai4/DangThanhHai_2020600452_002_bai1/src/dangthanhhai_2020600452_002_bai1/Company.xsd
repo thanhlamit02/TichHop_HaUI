@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XmlSchema.xsd to edit this template
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+
+    <xs:simpleType name="nameType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[a-zA-Z ]{3,}"></xs:pattern>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="userType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[a-zA-Z][a-zA-Z0-9]{6,}"></xs:pattern>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="phoneType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="\d{3}-\d{3}-\d{4}"></xs:pattern>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="salaryType">
+        <xs:restriction base="xs:int">
+            <xs:minInclusive value="1000"></xs:minInclusive>
+            <xs:maxInclusive value="2000"></xs:maxInclusive>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="addType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Ha noi"/>
+            <xs:enumeration value="Hai phong"/>
+            <xs:enumeration value="Quang ninh"/>
+        </xs:restriction>          
+    </xs:simpleType>
+    
+    <xs:simpleType name="gdType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="male"/>
+            <xs:enumeration value="female"/>
+        </xs:restriction>          
+    </xs:simpleType>
+    
+    <xs:complexType name="emType">
+        <xs:sequence>
+            <xs:element name="name" type="nameType"/>
+            <xs:element name="userid" type="userType"/>
+            <xs:element name="phone" type="phoneType"/>
+            <xs:element name="salary" type="salaryType"/>
+            <xs:element name="address" type="addType"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:ID" use="required"/>
+        <xs:attribute name="gender" type="gdType" use="required"/>
+    </xs:complexType>
+    
+    <xs:complexType name="cpType">
+        <xs:sequence>
+            <xs:element name="employee" type="emType" minOccurs="2" maxOccurs="100"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:element name="company" type="cpType"/>
+</xs:schema>

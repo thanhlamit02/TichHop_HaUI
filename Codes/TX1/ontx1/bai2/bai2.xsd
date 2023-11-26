@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="bai2"
+    targetNamespace="http://tempuri.org/bai2.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/bai2.xsd"
+    xmlns:mstns="http://tempuri.org/bai2.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:simpleType name="mahangType">
+		<xs:restriction base="xs:ID">
+			<xs:maxLength value="6"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="dongiaType">
+		<xs:restriction base="xs:double">
+			<xs:minExclusive value="0"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="dvtinhType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Gói"/>
+			<xs:enumeration value="Hộp"/>
+			<xs:enumeration value="Chiếc"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="hangType">
+		<xs:sequence>
+			<xs:element name="TenHang" type="xs:string"/>
+			<xs:element name="SoLuong" type="xs:integer"/>
+			<xs:element name="DonViTinh" type="dvtinhType"/>
+			<xs:element name="DonGia" type="dongiaType"/>
+		</xs:sequence>
+		<xs:attribute name="MaHang" type="mahangType"/>
+	</xs:complexType>
+	<xs:complexType name="loaihangType">
+		<xs:sequence>
+			<xs:element name="Hang" type="hangType" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="MaLoai" type="xs:string"/>
+		<xs:attribute name="TenLoai" type="xs:string"/>
+	</xs:complexType>
+	<xs:complexType name="hoadonType">
+		<xs:sequence>
+			<xs:element name="MaHD" type="xs:ID"/>
+			<xs:element name="NgayBan" type="xs:date"/>
+			<xs:element name="LoaiHang" type="loaihangType" maxOccurs="10"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="dsType">
+		<xs:sequence>
+			<xs:element name="HoaDon" type="hoadonType" maxOccurs="4"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="DS" type="dsType"/>
+</xs:schema>

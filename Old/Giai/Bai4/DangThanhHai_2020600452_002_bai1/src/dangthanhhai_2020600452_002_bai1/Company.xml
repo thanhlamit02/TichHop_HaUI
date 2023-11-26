@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<company
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='Company.xsd'>
+    <employee id="H01" gender="male">
+        <name>Thanh Hai</name>
+        <userid>H123457</userid>
+        <phone>012-021-3513</phone>
+        <salary>1001</salary>
+        <address>Ha noi</address>
+    </employee>
+    <employee id="H02" gender="male">
+        <name>Thanh Hai</name>
+        <userid>H123457</userid>
+        <phone>012-021-3513</phone>
+        <salary>1001</salary>
+        <address>Ha noi</address>
+    </employee>
+</company>
+

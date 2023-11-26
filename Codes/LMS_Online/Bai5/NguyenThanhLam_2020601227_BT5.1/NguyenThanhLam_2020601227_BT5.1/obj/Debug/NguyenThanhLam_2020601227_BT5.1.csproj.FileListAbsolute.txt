@@ -1,0 +1,9 @@
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\LMS_Online\Bai5\NguyenThanhLam_2020601227_BT5.1\NguyenThanhLam_2020601227_BT5.1\bin\Debug\NguyenThanhLam_2020601227_BT5.1.exe.config
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\LMS_Online\Bai5\NguyenThanhLam_2020601227_BT5.1\NguyenThanhLam_2020601227_BT5.1\bin\Debug\NguyenThanhLam_2020601227_BT5.1.exe
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\LMS_Online\Bai5\NguyenThanhLam_2020601227_BT5.1\NguyenThanhLam_2020601227_BT5.1\bin\Debug\NguyenThanhLam_2020601227_BT5.1.pdb
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\LMS_Online\Bai5\NguyenThanhLam_2020601227_BT5.1\NguyenThanhLam_2020601227_BT5.1\obj\Debug\NguyenThanhLam_2020601227_BT5.1.csproj.AssemblyReference.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\LMS_Online\Bai5\NguyenThanhLam_2020601227_BT5.1\NguyenThanhLam_2020601227_BT5.1\obj\Debug\NguyenThanhLam_2020601227_BT5._1.Properties.Resources.resources
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\LMS_Online\Bai5\NguyenThanhLam_2020601227_BT5.1\NguyenThanhLam_2020601227_BT5.1\obj\Debug\NguyenThanhLam_2020601227_BT5.1.csproj.GenerateResource.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\LMS_Online\Bai5\NguyenThanhLam_2020601227_BT5.1\NguyenThanhLam_2020601227_BT5.1\obj\Debug\NguyenThanhLam_2020601227_BT5.1.csproj.CoreCompileInputs.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\LMS_Online\Bai5\NguyenThanhLam_2020601227_BT5.1\NguyenThanhLam_2020601227_BT5.1\obj\Debug\NguyenThanhLam_2020601227_BT5.1.exe
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\LMS_Online\Bai5\NguyenThanhLam_2020601227_BT5.1\NguyenThanhLam_2020601227_BT5.1\obj\Debug\NguyenThanhLam_2020601227_BT5.1.pdb

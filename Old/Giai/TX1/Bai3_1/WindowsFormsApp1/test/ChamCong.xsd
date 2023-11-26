@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ChamCong"
+    targetNamespace="http://tempuri.org/ChamCong.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/ChamCong.xsd"
+    xmlns:mstns="http://tempuri.org/ChamCong.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:simpleType name="maType">
+		<xs:restriction base="xs:ID">
+			<xs:pattern value="[a-zA-Z0-9]{5}"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="caType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="C1"/>
+			<xs:enumeration value="C2"/>
+			<xs:enumeration value="C3"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:simpleType name="ngayType">
+		<xs:restriction base="xs:integer">
+			<xs:maxInclusive value="31"/>
+			<xs:minInclusive value="0"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:simpleType name="gioType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[012][0-9]:[0-6][0-9]"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:complexType name="nvType">
+		<xs:sequence>
+			<xs:element name="CaLamViec" type="caType"/>
+			<xs:element name="GioVao" type="gioType"/>
+			<xs:element name="GioRa" type="gioType"/>
+		</xs:sequence>
+		<xs:attribute name="MaNV" type="maType"/>
+	</xs:complexType>
+
+	<xs:complexType name="nlvType">
+		<xs:sequence>
+			<xs:element name="NhanVien" type="nvType" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="Ngay" type="xs:date"/>
+	</xs:complexType>
+	
+	<xs:complexType name="ccType">
+		<xs:sequence>
+			<xs:element name="NgayLamViec" type="nlvType" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="BoPhan" type="xs:string"/>
+	</xs:complexType>
+
+	<xs:element name="ChamCong" type="ccType"/>
+</xs:schema>

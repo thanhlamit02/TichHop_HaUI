@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BenhNhan"
+    targetNamespace="http://tempuri.org/BenhNhan.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/BenhNhan.xsd"
+    xmlns:mstns="http://tempuri.org/BenhNhan.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:simpleType name="snType">
+		<xs:restriction base="xs:integer">
+			<xs:minExclusive value="0"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="maType">
+		<xs:restriction base="xs:ID">
+			<xs:minLength value="4"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:simpleType name="gtType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Nam"/>
+			<xs:enumeration value="Nữ"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:simpleType name="tkType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Nội"/>
+			<xs:enumeration value="Ngoại"/>
+			<xs:enumeration value="Cấp cứu"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:complexType name="bnType">
+		<xs:sequence>
+			<xs:element name="HoTen" type="xs:string"/>
+			<xs:element name="GioiTinh" type="gtType"/>
+			<xs:element name="NgayNhapVien" type="xs:date"/>
+			<xs:element name="NgayDieuTri" type="snType"/>
+		</xs:sequence>
+		<xs:attribute name="MasoBN" type="maType"/>
+	</xs:complexType>
+
+	<xs:complexType name="khoaType">
+		<xs:sequence>
+			<xs:element name="TenKhoa" type="tkType"/>
+			<xs:element name="Phong" type="xs:integer"/>
+			<xs:element name="BenhNhan" type="bnType" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="bvType">
+		<xs:sequence>
+			<xs:element name="Khoa" type="khoaType" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name="BVDK" type="bvType"/>
+</xs:schema>

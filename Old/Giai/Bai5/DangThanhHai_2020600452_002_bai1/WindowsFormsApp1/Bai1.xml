@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Bai1.xslt"?>
+<Truong>
+	<Lop>
+		<MaLop>CNTT01</MaLop>
+		<TenLop>Công nghệ thông tin 1</TenLop>
+	</Lop>
+	<Lop>
+		<MaLop>CNTT02</MaLop>
+		<TenLop>Công nghệ thông tin 2</TenLop>
+	</Lop>
+	<Lop>
+		<MaLop>CNTT03</MaLop>
+		<TenLop>Công nghệ thông tin 3</TenLop>
+	</Lop>
+	<Lop>
+		<MaLop>CNTT04</MaLop>
+		<TenLop>Công nghệ thông tin 4</TenLop>
+	</Lop>
+</Truong>

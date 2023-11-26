@@ -1,0 +1,11 @@
+﻿.ds{
+	border:1px solid black;
+	margin-bottom: 20px;
+	width:35%;
+	text-align:center;
+	height:170px
+}
+	.ds .bang {
+		text-align: left;
+		margin-bottom: 20px;
+	}

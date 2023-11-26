@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSSV"
+    targetNamespace="http://tempuri.org/DSSV.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/DSSV.xsd"
+    xmlns:mstns="http://tempuri.org/DSSV.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+	<xs:simpleType name="masvType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="\d{8}"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="gvType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Trần Mai Linh"/>
+			<xs:enumeration value="Đặng Thị Nhung"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="diemType">
+		<xs:restriction base="xs:decimal">
+			<xs:minInclusive value="0"/>
+			<xs:maxInclusive value="10"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="xlType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Trung bình"/>
+			<xs:enumeration value="Khá"/>
+			<xs:enumeration value="Giỏi"/>
+			<xs:enumeration value="Yếu"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:complexType name="mhType">
+		<xs:sequence>
+			<xs:element name="Lan1" type="diemType"/>
+			<xs:element name="Lan2" type="diemType"/>
+			<xs:element name="CaNam" type="diemType"/>
+		</xs:sequence>
+		<xs:attribute name="TenMon" type="xs:string" use="required"/>
+	</xs:complexType>
+
+	<xs:complexType name="svType">
+		<xs:sequence>
+			<xs:element name="MaSV" type="masvType"/>
+			<xs:element name="HoTen" type="xs:string"/>
+			<xs:element name="NgaySinh" type="xs:date"/>
+			<xs:element name="Lop" type="xs:string"/>
+			<xs:element name="MonHoc" type="mhType" minOccurs="3" maxOccurs="5"/>
+			<xs:element name="HocLuc" type="xlType"/>
+			<xs:element name="HanhKiem" type="xlType"/>
+			<xs:element name="GVCN" type="gvType"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="dsType">
+		<xs:sequence>
+			<xs:element name="SinhVien" type="svType" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name="DSSV" type="dsType"/>
+	
+</xs:schema>

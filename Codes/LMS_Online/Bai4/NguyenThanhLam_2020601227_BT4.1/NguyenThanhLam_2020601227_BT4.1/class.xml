@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<class xmlns="http://tempuri.org/class.xsd">
+	<student>
+		<sid>S123</sid>
+		<name>Lam</name>
+		<dob>2002-10-14</dob>
+		<mark>9</mark>
+	</student>
+</class>

@@ -1,0 +1,23 @@
+<nganhang>
+  <taikhoan>
+    <sotaikhoan>tk001</sotaikhoan>
+    <tentaikhoan>Nguyen Thi Mai Anh</tentaikhoan>
+    <diachi>Ha Noi</diachi>
+    <dienthoai>021615155</dienthoai>
+    <sotien>3000000</sotien>
+  </taikhoan>
+  <taikhoan>
+    <sotaikhoan>tk003</sotaikhoan>
+    <tentaikhoan>Đặng Thanh Hải</tentaikhoan>
+    <diachi>Hà Nội</diachi>
+    <dienthoai>0355888068</dienthoai>
+    <sotien>300000000</sotien>
+  </taikhoan>
+  <taikhoan>
+    <sotaikhoan>tk004</sotaikhoan>
+    <tentaikhoan>Nguyễn Thị Kim Dung</tentaikhoan>
+    <diachi>Hà Nội</diachi>
+    <dienthoai>0486132154</dienthoai>
+    <sotien>10000000</sotien>
+  </taikhoan>
+</nganhang>

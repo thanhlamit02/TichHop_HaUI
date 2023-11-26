@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Bai2"
+    targetNamespace="http://tempuri.org/Bai2.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Bai2.xsd"
+    xmlns:mstns="http://tempuri.org/Bai2.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:simpleType name="gtType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Nam"/>
+			<xs:enumeration value="Nữ"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="maType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[a-zA-Z]{4}\d{2}"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:complexType name="svType">
+		<xs:sequence>
+			<xs:element name="MaSv" type="xs:ID"/>
+			<xs:element name="TenSv" type="xs:string"/>
+			<xs:element name="GioiTinh" type="gtType"/>
+			<xs:element name="NgaySinh" type="xs:date"/>
+			<xs:element name="MaLop" type="maType"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="lopType">
+		<xs:sequence>
+			<xs:element name="SinhVien" type="mstns:svType" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name="Lop" type="lopType"/>
+</xs:schema>

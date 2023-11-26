@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="BVDK.xslt"?>
+
+<BVDK>
+	<Khoa MaKhoa="K01" TenKhoa="Ngoại">
+		<Phong>302</Phong>
+		<BenhNhan MasoBN="BN01" HoTen="Nguyễn Tuấn">
+			<GioiTinh>Nam</GioiTinh>
+			<ThoiGian>
+				<NgayNhapVien>2017-01-02</NgayNhapVien>
+				<NgayDieuTri>2</NgayDieuTri>
+			</ThoiGian>
+			<DiaChi>Hà Nội</DiaChi>
+			<SDT>0987654321</SDT>
+		</BenhNhan>
+
+		<BenhNhan MasoBN="BN02" HoTen="Nguyễn Tuấn">
+			<GioiTinh>Nam</GioiTinh>
+			<ThoiGian>
+				<NgayNhapVien>2017-01-02</NgayNhapVien>
+				<NgayDieuTri>2</NgayDieuTri>
+			</ThoiGian>
+			<DiaChi>Hà Nội</DiaChi>
+			<SDT>0987654321</SDT>
+		</BenhNhan>
+	</Khoa>
+
+	<Khoa MaKhoa="K02" TenKhoa="Nội">
+		<Phong>302</Phong>
+		<BenhNhan MasoBN="BN03" HoTen="Nguyễn Tuấn">
+			<GioiTinh>Nam</GioiTinh>
+			<ThoiGian>
+				<NgayNhapVien>2017-01-02</NgayNhapVien>
+				<NgayDieuTri>2</NgayDieuTri>
+			</ThoiGian>
+			<DiaChi>Hà Nội</DiaChi>
+			<SDT>0987654321</SDT>
+		</BenhNhan>
+
+		<BenhNhan MasoBN="BN04" HoTen="Nguyễn Tuấn">
+			<GioiTinh>Nam</GioiTinh>
+			<ThoiGian>
+				<NgayNhapVien>2017-01-02</NgayNhapVien>
+				<NgayDieuTri>2</NgayDieuTri>
+			</ThoiGian>
+			<DiaChi>Hà Nội</DiaChi>
+			<SDT>0987654321</SDT>
+		</BenhNhan>
+	</Khoa>
+</BVDK>
