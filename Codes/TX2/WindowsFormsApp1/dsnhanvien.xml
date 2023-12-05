@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <nhanvien manv="nv01">
+    <hoten>
+      <ho>Nguyễn</ho>
+      <ten>Thành Lâm</ten>
+    </hoten>
+    <gioitinh>Nam</gioitinh>
+    <trinhdo>Đại học</trinhdo>
+    <diachi>Nam Định</diachi>
+  </nhanvien>
+  <nhanvien manv="nv02">
+    <hoten>
+      <ho>Lê</ho>
+      <ten>Thị Hoài</ten>
+    </hoten>
+    <gioitinh>Nữ</gioitinh>
+    <trinhdo>Đại học</trinhdo>
+    <diachi>Nam Định</diachi>
+  </nhanvien>
+  <nhanvien manv="nv03">
+    <hoten>
+      <ho>Lê</ho>
+      <ten>Phương Thảo</ten>
+    </hoten>
+    <gioitinh>Nữ</gioitinh>
+    <trinhdo>Đại học</trinhdo>
+    <diachi>Nam Định</diachi>
+  </nhanvien>
+  <nhanvien manv="nv04">
+    <hoten>
+      <ho>Nguyễn</ho>
+      <ten>Đức An</ten>
+    </hoten>
+    <gioitinh>Nam</gioitinh>
+    <trinhdo>Cao đẳng</trinhdo>
+    <diachi>Hà Nội</diachi>
+  </nhanvien>
+</ds>
