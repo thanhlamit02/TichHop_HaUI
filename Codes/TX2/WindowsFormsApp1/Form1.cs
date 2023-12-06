@@ -63,6 +63,7 @@ namespace WindowsFormsApp1
         private void LoadComboBox()
         {
             cbxTrinhdo.SelectedText = "Đại học";
+            cbxTrinhdo.Items.Add("Đại học");
             cbxTrinhdo.Items.Add("Cao đẳng");
             cbxTrinhdo.Items.Add("Không có");
         }
@@ -227,30 +228,41 @@ namespace WindowsFormsApp1
             datanhanvien.Rows.Add();
             int sd = 0;
 
-            foreach (XmlNode nv in DS)
+            if(nhanVien != null)
             {
-                if (nhanVien.SelectSingleNode("@manv").InnerText == nv.SelectSingleNode("@manv").InnerText)
+                foreach (XmlNode nv in DS)
                 {
-                    XmlNode manv = nv.SelectSingleNode("@manv");
-                    datanhanvien.Rows[sd].Cells[0].Value = manv.InnerText;
+                    if (nhanVien.SelectSingleNode("@manv").InnerText == nv.SelectSingleNode("@manv").InnerText)
+                    {
+                        XmlNode manv = nv.SelectSingleNode("@manv");
+                        datanhanvien.Rows[sd].Cells[0].Value = manv.InnerText;
 
-                    XmlNode ho = nv.SelectSingleNode("hoten/ho");
-                    datanhanvien.Rows[sd].Cells[1].Value = ho.InnerText;
+                        XmlNode ho = nv.SelectSingleNode("hoten/ho");
+                        datanhanvien.Rows[sd].Cells[1].Value = ho.InnerText;
 
-                    XmlNode ten = nv.SelectSingleNode("hoten/ten");
-                    datanhanvien.Rows[sd].Cells[2].Value = ten.InnerText;
+                        XmlNode ten = nv.SelectSingleNode("hoten/ten");
+                        datanhanvien.Rows[sd].Cells[2].Value = ten.InnerText;
 
-                    XmlNode gioitinh = nv.SelectSingleNode("gioitinh");
-                    datanhanvien.Rows[sd].Cells[3].Value = gioitinh.InnerText;
+                        XmlNode gioitinh = nv.SelectSingleNode("gioitinh");
+                        datanhanvien.Rows[sd].Cells[3].Value = gioitinh.InnerText;
 
-                    XmlNode trinhdo = nv.SelectSingleNode("trinhdo");
-                    datanhanvien.Rows[sd].Cells[4].Value = trinhdo.InnerText;
+                        XmlNode trinhdo = nv.SelectSingleNode("trinhdo");
+                        datanhanvien.Rows[sd].Cells[4].Value = trinhdo.InnerText;
 
-                    XmlNode diachi = nv.SelectSingleNode("diachi");
-                    datanhanvien.Rows[sd].Cells[5].Value = diachi.InnerText;
+                        XmlNode diachi = nv.SelectSingleNode("diachi");
+                        datanhanvien.Rows[sd].Cells[5].Value = diachi.InnerText;
 
-                    datanhanvien.Rows.Add();
-                    sd++;
+                        datanhanvien.Rows.Add();
+                        sd++;
+                    }
+                }
+            }
+            else
+            {
+                DialogResult error = MessageBox.Show("Mã nhân viên không tồn tại hoặc không hợp lệ!", "Thông báo", MessageBoxButtons.OK);
+                if(error == DialogResult.OK)
+                {
+                    HienThi();
                 }
             }
         }
@@ -277,6 +289,7 @@ namespace WindowsFormsApp1
             txtDiachi.Clear();
             txtTim.Clear();
             ActiveControl = txtManv;
+            HienThi();S
         }
     }
 }
