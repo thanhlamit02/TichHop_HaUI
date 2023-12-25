@@ -1,0 +1,10 @@
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\KTHP\UseAPI\bin\Debug\UseAPI.exe.config
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\KTHP\UseAPI\bin\Debug\UseAPI.exe
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\KTHP\UseAPI\bin\Debug\UseAPI.pdb
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\KTHP\UseAPI\obj\Debug\UseAPI.csproj.AssemblyReference.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\KTHP\UseAPI\obj\Debug\UseAPI.Properties.Resources.resources
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\KTHP\UseAPI\obj\Debug\UseAPI.csproj.GenerateResource.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\KTHP\UseAPI\obj\Debug\UseAPI.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\KTHP\UseAPI\obj\Debug\UseAPI.exe
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\KTHP\UseAPI\obj\Debug\UseAPI.pdb
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\KTHP\UseAPI\obj\Debug\UseAPI.Form1.resources
