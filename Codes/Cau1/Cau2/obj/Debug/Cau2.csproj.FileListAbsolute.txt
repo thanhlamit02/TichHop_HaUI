@@ -1,0 +1,10 @@
+D:\YEAR4\TichHop\thi\Cau1\Cau2\bin\Debug\Cau2.exe.config
+D:\YEAR4\TichHop\thi\Cau1\Cau2\bin\Debug\Cau2.exe
+D:\YEAR4\TichHop\thi\Cau1\Cau2\bin\Debug\Cau2.pdb
+D:\YEAR4\TichHop\thi\Cau1\Cau2\obj\Debug\Cau2.csproj.AssemblyReference.cache
+D:\YEAR4\TichHop\thi\Cau1\Cau2\obj\Debug\Cau2.Form1.resources
+D:\YEAR4\TichHop\thi\Cau1\Cau2\obj\Debug\Cau2.Properties.Resources.resources
+D:\YEAR4\TichHop\thi\Cau1\Cau2\obj\Debug\Cau2.csproj.GenerateResource.cache
+D:\YEAR4\TichHop\thi\Cau1\Cau2\obj\Debug\Cau2.csproj.CoreCompileInputs.cache
+D:\YEAR4\TichHop\thi\Cau1\Cau2\obj\Debug\Cau2.exe
+D:\YEAR4\TichHop\thi\Cau1\Cau2\obj\Debug\Cau2.pdb
