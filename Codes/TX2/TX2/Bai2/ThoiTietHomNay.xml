@@ -1,0 +1,27 @@
+﻿
+<thoitiethomnay>
+	<thoigian gio="07:00:00">
+		<khuvuc ma="12345">
+			<kieuthoitiet>Mưa</kieuthoitiet>
+			<nhietdo>27</nhietdo>
+			<doam>70</doam>
+		</khuvuc>
+		<khuvuc ma="421523">
+			<kieuthoitiet>Nắng</kieuthoitiet>
+			<nhietdo>30</nhietdo>
+			<doam>80</doam>
+		</khuvuc>
+	</thoigian>
+	<thoigian gio="10:00:00">
+		<khuvuc ma="315531">
+			<kieuthoitiet>Nắng nhẹ</kieuthoitiet>
+			<nhietdo>27</nhietdo>
+			<doam>90</doam>
+		</khuvuc>
+		<khuvuc ma="335611">
+			<kieuthoitiet>Nhiều mây</kieuthoitiet>
+			<nhietdo>28</nhietdo>
+			<doam>69</doam>
+		</khuvuc>
+	</thoigian>
+</thoitiethomnay>

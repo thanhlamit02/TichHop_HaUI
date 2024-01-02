@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tx2Ca2_deGiang", "Tx2Ca2_deGiang\Tx2Ca2_deGiang.csproj", "{1606B8CC-2AAA-4AF3-8CF0-628C26607778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TX2_Ca1", "TX2_Ca1\TX2_Ca1.csproj", "{22018F98-F726-4FBB-B024-5AD5E11370A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1606B8CC-2AAA-4AF3-8CF0-628C26607778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1606B8CC-2AAA-4AF3-8CF0-628C26607778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1606B8CC-2AAA-4AF3-8CF0-628C26607778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1606B8CC-2AAA-4AF3-8CF0-628C26607778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22018F98-F726-4FBB-B024-5AD5E11370A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22018F98-F726-4FBB-B024-5AD5E11370A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22018F98-F726-4FBB-B024-5AD5E11370A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22018F98-F726-4FBB-B024-5AD5E11370A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF22408B-318D-4FE8-9D4C-18E5EA2EBDDA}
+	EndGlobalSection
+EndGlobal

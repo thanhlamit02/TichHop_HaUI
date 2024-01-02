@@ -1,0 +1,10 @@
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\Bai2\bin\Debug\Bai2.exe.config
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\Bai2\bin\Debug\Bai2.exe
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\Bai2\bin\Debug\Bai2.pdb
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\Bai2\obj\Debug\Bai2.Form1.resources
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\Bai2\obj\Debug\Bai2.exe
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\TX2\Bai2\obj\Debug\Bai2.pdb

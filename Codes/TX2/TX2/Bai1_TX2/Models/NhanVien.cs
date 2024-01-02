@@ -12,7 +12,7 @@ namespace Bai1_TX2.Models
     using System;
     using System.Collections.Generic;
     
-    public class NhanVien
+    public partial class NhanVien
     {
         public string MaNV { get; set; }
         public string HoTen { get; set; }

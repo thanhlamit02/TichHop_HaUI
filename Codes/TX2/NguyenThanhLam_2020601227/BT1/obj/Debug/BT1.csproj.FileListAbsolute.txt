@@ -1,0 +1,10 @@
+D:\NguyenThanhLam_2020601227\BT1\bin\Debug\BT1.exe.config
+D:\NguyenThanhLam_2020601227\BT1\bin\Debug\BT1.exe
+D:\NguyenThanhLam_2020601227\BT1\bin\Debug\BT1.pdb
+D:\NguyenThanhLam_2020601227\BT1\obj\Debug\BT1.csproj.AssemblyReference.cache
+D:\NguyenThanhLam_2020601227\BT1\obj\Debug\BT1.Form1.resources
+D:\NguyenThanhLam_2020601227\BT1\obj\Debug\BT1.Properties.Resources.resources
+D:\NguyenThanhLam_2020601227\BT1\obj\Debug\BT1.csproj.GenerateResource.cache
+D:\NguyenThanhLam_2020601227\BT1\obj\Debug\BT1.csproj.CoreCompileInputs.cache
+D:\NguyenThanhLam_2020601227\BT1\obj\Debug\BT1.exe
+D:\NguyenThanhLam_2020601227\BT1\obj\Debug\BT1.pdb

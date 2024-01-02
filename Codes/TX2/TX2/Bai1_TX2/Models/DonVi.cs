@@ -12,7 +12,7 @@ namespace Bai1_TX2.Models
     using System;
     using System.Collections.Generic;
     
-    public class DonVi
+    public partial class DonVi
     {
         public string MaDV { get; set; }
         public string TenDV { get; set; }

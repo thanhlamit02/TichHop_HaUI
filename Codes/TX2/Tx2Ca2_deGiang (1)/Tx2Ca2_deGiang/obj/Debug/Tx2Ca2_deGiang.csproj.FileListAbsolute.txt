@@ -1,0 +1,30 @@
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\bin\Debug\Tx2Ca2_deGiang.exe.config
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\bin\Debug\Tx2Ca2_deGiang.exe
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\bin\Debug\Tx2Ca2_deGiang.pdb
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.csproj.AssemblyReference.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.Form1.resources
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.Properties.Resources.resources
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.csproj.GenerateResource.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.exe
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.pdb
+D:\Ki7\TTHT\Tx2Ca2_deGiang\Tx2Ca2_deGiang\bin\Debug\Tx2Ca2_deGiang.exe.config
+D:\Ki7\TTHT\Tx2Ca2_deGiang\Tx2Ca2_deGiang\bin\Debug\Tx2Ca2_deGiang.exe
+D:\Ki7\TTHT\Tx2Ca2_deGiang\Tx2Ca2_deGiang\bin\Debug\Tx2Ca2_deGiang.pdb
+D:\Ki7\TTHT\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.csproj.AssemblyReference.cache
+D:\Ki7\TTHT\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.Form1.resources
+D:\Ki7\TTHT\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.Properties.Resources.resources
+D:\Ki7\TTHT\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.csproj.GenerateResource.cache
+D:\Ki7\TTHT\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.csproj.CoreCompileInputs.cache
+D:\Ki7\TTHT\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.exe
+D:\Ki7\TTHT\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.pdb
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\Tx2Ca2_deGiang (1)\Tx2Ca2_deGiang\bin\Debug\Tx2Ca2_deGiang.exe.config
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\Tx2Ca2_deGiang (1)\Tx2Ca2_deGiang\bin\Debug\Tx2Ca2_deGiang.exe
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\Tx2Ca2_deGiang (1)\Tx2Ca2_deGiang\bin\Debug\Tx2Ca2_deGiang.pdb
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\Tx2Ca2_deGiang (1)\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.csproj.AssemblyReference.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\Tx2Ca2_deGiang (1)\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.Form1.resources
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\Tx2Ca2_deGiang (1)\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.Properties.Resources.resources
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\Tx2Ca2_deGiang (1)\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.csproj.GenerateResource.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\Tx2Ca2_deGiang (1)\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.csproj.CoreCompileInputs.cache
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\Tx2Ca2_deGiang (1)\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.exe
+E:\Documents\Giao trinh hoc online\4th year\Tich hop HTPM\Codes\TX2\Tx2Ca2_deGiang (1)\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.pdb

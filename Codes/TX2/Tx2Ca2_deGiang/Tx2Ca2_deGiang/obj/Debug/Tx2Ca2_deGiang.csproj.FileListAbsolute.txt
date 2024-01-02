@@ -1,0 +1,20 @@
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\bin\Debug\Tx2Ca2_deGiang.exe.config
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\bin\Debug\Tx2Ca2_deGiang.exe
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\bin\Debug\Tx2Ca2_deGiang.pdb
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.csproj.AssemblyReference.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.Form1.resources
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.Properties.Resources.resources
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.csproj.GenerateResource.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.exe
+C:\Users\Mr.Duong\Documents\Tích hợp\em dương\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.pdb
+C:\Users\Mr.Duong\Documents\Tích hợp\emduong\Tx2Ca2_deGiang\Tx2Ca2_deGiang\bin\Debug\Tx2Ca2_deGiang.exe.config
+C:\Users\Mr.Duong\Documents\Tích hợp\emduong\Tx2Ca2_deGiang\Tx2Ca2_deGiang\bin\Debug\Tx2Ca2_deGiang.exe
+C:\Users\Mr.Duong\Documents\Tích hợp\emduong\Tx2Ca2_deGiang\Tx2Ca2_deGiang\bin\Debug\Tx2Ca2_deGiang.pdb
+C:\Users\Mr.Duong\Documents\Tích hợp\emduong\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.csproj.AssemblyReference.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\emduong\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.Form1.resources
+C:\Users\Mr.Duong\Documents\Tích hợp\emduong\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.Properties.Resources.resources
+C:\Users\Mr.Duong\Documents\Tích hợp\emduong\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.csproj.GenerateResource.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\emduong\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Duong\Documents\Tích hợp\emduong\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.exe
+C:\Users\Mr.Duong\Documents\Tích hợp\emduong\Tx2Ca2_deGiang\Tx2Ca2_deGiang\obj\Debug\Tx2Ca2_deGiang.pdb

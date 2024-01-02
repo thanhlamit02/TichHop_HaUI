@@ -289,7 +289,7 @@ namespace WindowsFormsApp1
             txtDiachi.Clear();
             txtTim.Clear();
             ActiveControl = txtManv;
-            HienThi();S
+            HienThi();
         }
     }
 }
